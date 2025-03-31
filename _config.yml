@@ -18,13 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Assignment 2: Impact of COVID-19 on Crimes on 2020"  
+title: "Assignment 2: Impact of COVID-19 and the George Floyd incident on 2020's Crimes"  
 email: s215225@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   The COVID-19 pandemic triggered widespread disruptions, 
   slowing economic activity, straining services, and reshaping daily life. 
   While the economic and societal impacts were widely felt, 
   an unexpected consequence of the lockdown was the dramatic fluctuation in crime patterns in 2020.
+  In addition, the George Floyd incident in May 2020 sparked protests and unrest across the United States,
+  leading to a surge in violent crime in many cities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MrMustii
