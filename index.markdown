@@ -8,7 +8,7 @@ Test Plot 1
 
 test plot 3
 <div style="width: 100%; height: 500px;">
-  <iframe src="{{ site.baseurl }}/assets/calplot/crime_growth_2020.html" frameborder="0" width="100%" height="100%"></iframe>
+  <iframe src="https://mrmustii.github.io/assets/crime_growth_2020.html" frameborder="0" width="100%" height="100%"></iframe>
 </div>
 
 <div>
