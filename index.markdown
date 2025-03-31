@@ -1,3 +1,5 @@
+The following case study is based on police department incident reports obtained from DataSF, a data archive managed by San Francisco City and County departments. Combined, they contain over three million reports for various crimes spanning from 2003 to 2025, including date, time, location, crime category, and police district. After merging the two datasets, we looked for trends over time based on these variables, particularly as they pertained to the COVID-19 pandemic.  
+
 Test Plot 1
 
 <div style="width: 100%; height: 500px;">
