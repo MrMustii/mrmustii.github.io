@@ -54,6 +54,10 @@ These socioeconomic conditions, high population density and low  income, may con
 
 Ultimately, historically underserved communities in San Francisco were disproportionately affected by the events of 2020, both economically and socially. As restrictions were imposed, the relative rates of burglaries and vehicle thefts skyrocketed, while other categories of crime fell in frequency. The unrest following George Floyd’s murder further cemented this trend, as instances of looting and vandalism led to a surge in burglary reports, particularly in the Tenderloin and Central police districts. These patterns underscore the severity of 2020's impact on the neighborhoods of San Francisco’s most vulnerable communities.
 
+###### Contributions
+
+Zeeshawn on the intro, Bokeh plot and its analysis; Mustafa worked on the conclusion, the heatmap and its analysis; and Samer on the dropdown calendar plots with its analysis, overall webpage design and organization.
+
 ###### References
 [^1]: [Statistical Atlas – Population Density in San Francisco](https://statisticalatlas.com/place/California/San-Francisco/Population)  
 [^2]: [U.S. Census Bureau QuickFacts: San Francisco](https://www.census.gov/quickfacts/fact/table/sanfranciscocitycalifornia)  
