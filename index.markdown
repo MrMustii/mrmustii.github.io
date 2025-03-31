@@ -1,15 +1,17 @@
 The following case study is based on police department incident reports obtained from DataSF, a data archive managed by San Francisco City and County departments. Combined, they contain over three million reports for various crimes spanning from 2003 to 2025, including date, time, location, crime category, and police district. After merging the two datasets, we looked for trends over time based on these variables, particularly as they pertained to the COVID-19 pandemic.  
 
+We found that, overall, crime rates sharply declined as lockdown mandates were imposed in the city in March of 2020. From then on, we see a gradual increase in daily reports through the rest of the year. We can also see some noticeable daily highs, such as during the protests and ensuing riots at the end of May following the death of George Floyd.  
+
+George Floyd was an African-American man murdered at the hands of a Minneapolis police officer in May of 2020. His death prompted large-scale demonstrations across the United States, protesting racially motivated police brutality. Although these protests were overwhelmingly peaceful, there were many instances of vandalism, looting, and rioting by demonstrators. This would explain the increase in arrests in San Francisco during this time period.  
+
+
+
 Test Plot 1
 
 <div style="width: 100%; height: 500px;">
   <iframe src="{{ site.baseurl }}/assets/burglary_heatmap.html" frameborder="0" width="100%" height="100%"></iframe>
 </div>
 
-test plot 3
-<!-- <div style="width: 100%; height: 500px;">
-  <iframe src="{{ site.baseurl }}/assets/crime_growth_2020.html" frameborder="0" width="100%" height="100%"></iframe>
-</div> -->
 
 <div>
   <label for="crime-category-selector">Choose a crime category:</label>
