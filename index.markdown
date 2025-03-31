@@ -41,7 +41,7 @@ test plot 3
 </div>
 
 <div id="crime-category-image" style="margin-top: 20px;">
-  <img src="https://mrmustii.github.io/assets/calplots/all_crimes_2020_calplot.png" alt="ALL CRIMES OF 2020" style="width: 100%; max-height: 500px;" id="crime-image">
+  <img src="https://mrmustii.github.io/assets/calplots/all_crimes_2020_calplot.png" alt="ALL CRIMES OF 2020" style="width: 100%;" id="crime-image">
 </div>
 
 <script>
