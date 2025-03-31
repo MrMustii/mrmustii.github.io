@@ -50,7 +50,7 @@ These socioeconomic conditions, high population density and low  income, may con
   <iframe src="{{ site.baseurl }}/assets/burglary_heatmap_george_floyd.html" frameborder="0" width="100%" height="100%"></iframe>
 </div>
 
-##### Conclusion  
+#### Conclusion  
 
 Ultimately, historically underserved communities in San Francisco were disproportionately affected by the events of 2020, both economically and socially. As restrictions were imposed, the relative rates of burglaries and vehicle thefts skyrocketed, while other categories of crime fell in frequency. The unrest following George Floyd’s murder further cemented this trend, as instances of looting and vandalism led to a surge in burglary reports, particularly in the Tenderloin and Central police districts. These patterns underscore the severity of 2020's impact on the neighborhoods of San Francisco’s most vulnerable communities.
 
