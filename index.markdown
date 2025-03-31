@@ -24,7 +24,7 @@ test plot 3
 <div>
   <label for="crime-category-selector">Choose a crime category:</label>
   <select id="crime-category-selector" onchange="updateImage(this.value);">
-    <option value="#">--Select a category--</option>
+    <option value="https://mrmustii.github.io/assets/calplots/all_crimes_2020_calplot.png">ALL CRIMES OF 2020</option>
     <option value="https://mrmustii.github.io/assets/calplots/assault_2020_calplot.png">Assault</option>
     <option value="https://mrmustii.github.io/assets/calplots/burglary_2020_calplot.png">Burglary</option>
     <option value="https://mrmustii.github.io/assets/calplots/drug_narcotic_2020_calplot.png">Drugs/Narcotics</option>
@@ -36,6 +36,7 @@ test plot 3
     <option value="https://mrmustii.github.io/assets/calplots/vehicle_theft_2020_calplot.png">Vehicle Theft</option>
     <option value="https://mrmustii.github.io/assets/calplots/weapon_laws_2020_calplot.png">Weapon Laws</option>
     <option value="https://mrmustii.github.io/assets/calplots/other_offenses_2020_calplot.png">Other Offenses</option>
+    <option value="https://mrmustii.github.io/assets/burglary_calendar.png">Burglary (2018 - 2024)</option>
   </select>
 </div>
 
