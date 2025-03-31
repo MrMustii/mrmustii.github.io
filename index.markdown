@@ -24,7 +24,7 @@ test plot 3
 <div>
   <label for="crime-category-selector">Choose a crime category:</label>
   <select id="crime-category-selector" onchange="updateImage(this.value);">
-    <option value="https://mrmustii.github.io/assets/calplots/all_crimes_2020_calplot.png">ALL CRIMES OF 2020</option>
+    <option value="https://mrmustii.github.io/assets/calplots/all_crimes_2020_calplot.png" selected>ALL CRIMES OF 2020</option>
     <option value="https://mrmustii.github.io/assets/calplots/assault_2020_calplot.png">Assault</option>
     <option value="https://mrmustii.github.io/assets/calplots/burglary_2020_calplot.png">Burglary</option>
     <option value="https://mrmustii.github.io/assets/calplots/drug_narcotic_2020_calplot.png">Drugs/Narcotics</option>
@@ -41,7 +41,7 @@ test plot 3
 </div>
 
 <div id="crime-category-image" style="margin-top: 20px;">
-  <img src="#" alt="Select a category to view the plot" style="width: 100%; max-height: 500px; display: none;" id="crime-image">
+  <img src="https://mrmustii.github.io/assets/calplots/all_crimes_2020_calplot.png" alt="ALL CRIMES OF 2020" style="width: 100%; max-height: 500px;" id="crime-image">
 </div>
 
 <script>
